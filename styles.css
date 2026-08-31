@@ -1727,6 +1727,10 @@ a.detail-val:hover { color: var(--color-primary); text-decoration: underline; }
   color: #94A3B8;
   font-weight: 500;
   line-height: 1.5;
+  font-size: 0.825rem;
+  max-width: 800px;
+}
+
 .footer-clean-credit {
   font-family: var(--font-sans);
   font-size: 0.875rem;
